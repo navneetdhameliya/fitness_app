@@ -18,29 +18,29 @@ class TabIconData {
 
   static List<TabIconData> tabIconsList = <TabIconData>[
     TabIconData(
-      imagePath: 'assets/images/tab_1.png',
-      selectedImagePath: 'assets/images/tab_1s.png',
+      imagePath: 'assets/images/tab_one.png',
+      selectedImagePath: 'assets/images/tab_one_select.png',
       index: 0,
       isSelected: true,
       animationController: null,
     ),
     TabIconData(
-      imagePath: 'assets/images/tab_2.png',
-      selectedImagePath: 'assets/images/tab_2s.png',
+      imagePath: 'assets/images/tab_two.png',
+      selectedImagePath: 'assets/images/tab_two_select.png',
       index: 1,
       isSelected: false,
       animationController: null,
     ),
     TabIconData(
-      imagePath: 'assets/images/tab_3.png',
-      selectedImagePath: 'assets/images/tab_3s.png',
+      imagePath: 'assets/images/tab_three.png',
+      selectedImagePath: 'assets/images/tab_three_select.png',
       index: 2,
       isSelected: false,
       animationController: null,
     ),
     TabIconData(
-      imagePath: 'assets/images/tab_4.png',
-      selectedImagePath: 'assets/images/tab_4s.png',
+      imagePath: 'assets/images/tab_four.png',
+      selectedImagePath: 'assets/images/tab_four_select.png',
       index: 3,
       isSelected: false,
       animationController: null,
